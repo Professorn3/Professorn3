@@ -15,9 +15,9 @@
 
 ## Hobbies
 <div style="animation: fadeIn 3s ease-in;">
-  - 📚 Reading tech blogs
-  - 🎨 Creating digital art
-  - 🌱 Gardening
+  - 📚 Hardware Tech
+  - 🎨 PC Gaming
+  - 🌱 Gardening smokes
 </div>
 
 ---
