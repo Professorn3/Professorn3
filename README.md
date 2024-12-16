@@ -1,7 +1,7 @@
 # About Me
 
 <div style="text-align: center; animation: fadeIn 2s ease-in;">
-  <img src="professor.ppg" alt="Profile Picture" style="border-radius: 50%; width: 150px; animation: bounce 2s infinite;">
+  <img src="professor.png" alt="Profile Picture" style="border-radius: 50%; width: 150px; animation: bounce 2s infinite;">
   <h1 style="font-family: Arial, sans-serif; color: #333;">Professorn here!</h1>
   <p style="font-family: Arial, sans-serif; color: #555;">I'm new to this.</p>
 </div>
