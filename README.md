@@ -8,7 +8,7 @@
 
 ## Skills
 <div style="animation: slideIn 2s ease-in;">
-  - **Programming Languages**: JavaScript, Python, C++
+  - **Programming Languages**: New to HTML, CSS and Javascript. Looking forward to C++. 
   - **Frameworks**: React, Django, Flask
   - **Tools**: Git, Docker, VS Code
 </div>
