@@ -17,7 +17,6 @@
 <div style="animation: fadeIn 3s ease-in;">
   - 📚 Hardware Tech
   - 🎨 PC Gaming
-  - 🌱 Gardening smokes
 </div>
 
 ---
