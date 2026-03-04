@@ -1,53 +1,25 @@
-# About Me
+# Hey, I'm Professorn3 👋
 
-<div style="text-align: center; animation: fadeIn 2s ease-in;">
-  <img src="professor.png" alt="Profile Picture" style="border-radius: 50%; width: 150px; animation: bounce 2s infinite;">
-  <h1 style="font-family: Arial, sans-serif; color: #333;">Professorn here!</h1>
-  <p style="font-family: Arial, sans-serif; color: #555;">I'm new to this.</p>
-</div>
+Full-stack developer building real-time web apps with C# and modern frontend.
 
-## Skills
-<div style="animation: slideIn 2s ease-in;">
-  - **Programming Languages**: New to HTML, CSS and Javascript. Looking forward to C#.
-  - **Frameworks**: React, Django, Flask
-  - **Tools**: Git, Docker, VS Code
-</div>
+## 🛠️ Tech Stack
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Hobbies
-<div style="animation: fadeIn 3s ease-in;">
-  - 📚 Hardware Tech
-  - 🎨 PC Gaming
-</div>
+## 🚀 Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| [RestaurantBooking](https://github.com/Professorn3/RestaurantBooking) | Real-time 2D restaurant seat reservation system | C#, SignalR, ASP.NET |
 
----
+## 📊 GitHub Stats
+![Professorn3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Professorn3&show_icons=true&theme=dark&hide_border=true)
 
-<style>
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
-    }
-  }
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Professorn3&layout=compact&theme=dark&hide_border=true)
 
-  @keyframes bounce {
-    0%, 100% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-10px);
-    }
-  }
-
-  @keyframes slideIn {
-    from {
-      transform: translateX(-100%);
-      opacity: 0;
-    }
-    to {
-      transform: translateX(0);
-      opacity: 1;
-    }
-  }
-</style>
+## 📫 Contact
+[![Gmail](https://img.shields.io/badge/swedevice@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:swedevice@gmail.com)
